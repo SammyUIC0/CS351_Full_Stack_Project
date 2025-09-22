@@ -38,6 +38,14 @@ Sun: Anytime after 6:00pm
 
 *Prior to 4/17: Meet together weekly to target project weakpoints/bugs and possibly visit office hours to get guidance if the progress feels weak.*  
 
+
+**Answer**  
+  
+**Week of 9/22** – Hold an initial group meeting for introductions. Ensure all members have access to the GitHub repo and Figma collaboration space. Brainstorm project ideas (leaning toward Track 3 “Culture Guesser”). Split work to answer the MS2 questions in the README.  
+
+**Prior to 10/02 (MS2 deadline)** – Meet at least once more to finalize group roles, confirm the project idea and scope, and complete/push all required MS2 questions to the GitHub repo (including extra credit).  
+
+**Prior to MS4 Due Date** – Continue holding weekly meetings to check progress, surface and resolve bugs, and ensure everyone is aligned on responsibilities. Adjust timelines and redistribute tasks as needed.  
 ---
 
 # Communication  
@@ -114,6 +122,16 @@ goals/responsibilites.
 
 **Example:**  
 *Mauricio - Backend, Justin - Project Lead, Claudia - Frontend.*  
+
+**Answer**  
+
+**Conor — Project Lead** – Oversees coordination and project direction.  
+
+**Sammy — Frontend** – Focuses on building the user interface and integrating designs from Figma.  
+
+**Eric — Backend** – Responsible for setting up and maintaining the backend logic and APIs.  
+
+**Note:** As mentioned in Question 4, our roles will extend beyond the typical front-end/back-end split, and each member will take on responsibilities that support the entire stack when necessary and roles are subject to change if necessary.  
 
 ---
 
