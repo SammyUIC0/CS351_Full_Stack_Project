@@ -5,6 +5,27 @@
 *We are available to meet online on weekends from 12pm-8pm (12-2pm Saturday + Sunday), as well as from 4pm-6pm on Fridays.*  
 *Our weekly meeting will be Thursday 11am-12pm.*  
 
+#### Conor McJannett - Availability
+Mon: Anytime after 4:00pm
+Wed: Anytime before 1:00pm or after 4:00pm
+Tue, Thur: Anytime after 6:00pm
+Sunday: All day
+
+#### Eric Flores - Availability
+Mon: Anytime after 2:00pm
+Tue, Thur: Anytime after 7:00pm
+Wed, Fri: All day **except** around 5:00-7:00pm
+
+#### Sammy Ammra - Availability
+Mon: Anytime after 2:00pm
+Wed: Anytime after 11:00am
+Fri, Sun: Anytime after 6:00pm
+
+### Combined Availability (All-Inclusive)
+Mon: Anytime after 4:00pm
+Wed: Anytime between 11:00am-1:00pm, between 4:00-5:00pm, or after 7:00pm
+Sun: Anytime after 6:00pm
+
 ---
 
 # Timeline: Weekly Meeting Goals  
@@ -39,12 +60,51 @@
 # Norms  
 
 **Q4a:** How will your group handle situations when there is conflict in your group?  
+**Answer:**
+If a conflict arises for any reason, the first step is for each of us to take
+turns during our meeting and respectfully explain our perspectives on the
+situation in order to make sure we understand where each of us is coming from.
+Then we can try to break down what happened and ask clarifying questions to
+make sure we are all on the same page, and then from there we can try to figure
+out a plan for how we can resolve the issue we are conflicted over.
+
+Some helpful strategies to focus on include:
+- Agreeing on roles and responsibilities, general and specific
+- Making compromises on or dividing up work to acommodate the situation
+- Preventing conflicts early on by setting clear goals for each group member and splitting work as evenly and consistently as possible
+
+If the conflict hasn't yet been resolved after trying these strategies and a due date is approaching, we can bring it to a TA and explain the problem in a professional manner, and then use their advice as a plan to hopefully resolve the conflict in time for the deadline.
+
 **Q4b:** How will your group handle situations when a member is not contributing enough?  
 
 **Example:**  
 *If there is a disagreement on direction, we will resolve it with a unanimous vote.*  
 *If team members do not pull their weight, the team will politely remind them of their duties.*  
 *If they continue to not pull their weight, then they will get another warning and a chance to start being more productive.*  
+
+**Answer:**
+The first and most effective approach would be any attempts to prevent this
+from happening, such as checking in early with each other, and if a groupmate
+seems to be falling behind on their task then the other groupmates can ask
+what's wrong and if there's anything they can do to help or a way to change
+responsibilites to better suit each other's needs.
+
+It's important that when assigning group roles we are as specific as possible
+about what exactly each person is implementing, rather than referring to our
+roles as "backend" or "frontend".
+
+If after this someone is still falling behind, we shouldn't assume laziness and
+should ask what happened first. It's important to have a direct but respectfully
+group conversation in order to channel strong communication between all group
+members, and to stay factual and keep the conversation about work and fairness
+instead of making anything personal.
+
+Finally if this still hasn't worked to catch the person up to speed, bringing
+in a TA can help to gain extra clarity and bring in a neutral-party's support
+on the situation. This can help to solidify responsibilities between group
+members, and to fairly and respecfully pressure any group member who has fallen
+behind to catch up by better allowing them to understand their own
+goals/responsibilites.
 
 ---
 
