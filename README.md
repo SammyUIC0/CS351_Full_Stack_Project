@@ -46,7 +46,6 @@ Sun: Anytime after 6:00pm
 **Prior to 10/02 (MS2 deadline)** – Meet at least once more to finalize group roles, confirm the project idea and scope, and complete/push all required MS2 questions to the GitHub repo (including extra credit).  
 
 **Prior to MS4 Due Date** – Continue holding weekly meetings to check progress, surface and resolve bugs, and ensure everyone is aligned on responsibilities. Adjust timelines and redistribute tasks as needed.  
-
 ---
 
 # Communication  
@@ -139,6 +138,7 @@ goals/responsibilites.
 # Tech Stacks
 
 **Q6:** Which tech stacks will your group use? (Django + React or Flask + React)
+Django + React
 
 ---
 # Full Stack Group Project Track  
@@ -146,24 +146,30 @@ goals/responsibilites.
 
 # Track 1: Tackling Generative AI Consequences
 **Problem 1:** 
+AI podcasts are a rising concern with the rise of Genertaive Intellegence as they are easier to produce than AI video while still allowing for the generation of more misinformation than a single AI post.  
 
 **Solution 1:** 
-
----
+Creating a crowd source list of channels and accounts that are highly suspected to be AI generated. As well as a foroum where users can discuss media literacy in the age of generative AI.   
 
 # Track 2: Technology for Public Goods 
 
 **Problem 2:**
 
 **Solution 2:** 
+ 
 
 **Problem 3:** 
-
+A lot of UIC students need to commute to UIC and MTA/CTA isn't accessable to them. And either can't afford or would rather carpool to UIC instead. 
 **Solution 3:**  
+A carpool website were UIC students can find other people create a carpool with, where the driver can set thier own availabilities and conditions. (Such as how to split gas-money, when to depart, ect). 
+
+
 
 # Track 3: Creative Coding and Cultural Expression
 
 **Idea - Story - Inspiration 4:**
+
+
 
 **Implementation 4:**
 
