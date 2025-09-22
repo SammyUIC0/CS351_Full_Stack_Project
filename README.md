@@ -46,6 +46,7 @@ Sun: Anytime after 6:00pm
 **Prior to 10/02 (MS2 deadline)** – Meet at least once more to finalize group roles, confirm the project idea and scope, and complete/push all required MS2 questions to the GitHub repo (including extra credit).  
 
 **Prior to MS4 Due Date** – Continue holding weekly meetings to check progress, surface and resolve bugs, and ensure everyone is aligned on responsibilities. Adjust timelines and redistribute tasks as needed.  
+
 ---
 
 # Communication  
