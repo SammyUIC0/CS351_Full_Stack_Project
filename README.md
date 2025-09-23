@@ -146,8 +146,11 @@ goals/responsibilites.
 
 # Track 1: Tackling Generative AI Consequences
 **Problem 1:** 
+AI podcasts are a rising concern with the rise of Generative Intelligence as they are easier to produce than AI video while still allowing for the generation of more misinformation than a single AI post.  
 
 **Solution 1:** 
+Creating a crowd source list of channels and accounts that are highly suspected to be AI generated. As well as a forum where users can discuss media literacy in the age of generative AI.   
+
 
 ---
 
