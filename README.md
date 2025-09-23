@@ -145,8 +145,50 @@ goals/responsibilites.
 # Track 3: Creative Coding and Cultural Expression
 
 **Idea - Story - Inspiration 4:**
+A website featuring a "guessr" game (inspired from games like geoguessr and
+foodguessr) where the user is prompted with photos of events featured in UIC
+cultural centers, and the goal is to guess the names of as many cultural events
+featured on screen as possible, and after each guess, the answer is revealed
+along with a detailed expository about the currently featured cultural event.
+This genre of online games consistently finds positive reception online, is
+relatively simple in concept, and allows players of all ages and backgrounds to
+enjoy this style of game. This variation on guessr-type games would increase
+exposure to a wide variety of diverse cultures and practices found on campus at
+UIC, while providing a fun and engaging medium for its participants. The
+combination of ease of accessibility, a zero-knowledge entry-barrier for
+players, and the in-depth information on a diverse set of cultural practices
+makes for an interesting, highly-engaging and enjoyable experience for a vast
+online target audience. This project would contribute to increasing public
+knowledge and awareness of many unique cultures and practices while providing a
+fun and competitive user experience.
 
 **Implementation 4:**
+Users are prompted with photos of cultural events from UIC web pages and
+forums, and are tasked with guessing the name of each featured cultural
+event/practice by typing the answer into an interactive text field that is
+preselected by their cursor for them to instantly begin typing in. The user
+then submits their answer by pressing enter, and if the text field is empty
+their submission is denied and the program will wait until they have submitted
+a non-empty answer. After each guess, the user is met with a screen which tells
+them whether their guess was correct or not, and exibits information about the
+cultural event as well as the answer to the question. Similar to existing
+implementations of guessr-type games such as geoguessr and foodguessr, this
+game website tracks your score based on the accuracy of your guesses, and
+grades you at the end of each round (rounds may contain around, for example,
+7-10 questions each). Scores can be shared online, ranked on global
+leaderboards, and compared with friends' scores. The backend would contain a
+medium/large database containing images of cultural events from UIC websites
+and forums, and each photo will have corresponding text and information about
+the cultural event it depicts or captures. Player guesses may have a certain
+level of flexibility for interpretation by the program, including
+caps-insensitivity (ignoring capitalization of answers/submissions), acceptable
+synonymous keywords in guesses (predetermined by the backend database), and
+ignoring accidental double-spaces between words. Answers will be timed and
+scores will be influenced by how quickly the user gives an answer for each
+question/prompt. Best scores from each player will be recorded and featured on
+a global leaderboard of up to some number of player scores (e.g. top 100 all
+time, top 15 this week, top 10 scores from today, etc), encouraging competition
+and increasing user engagement.
 
 **Idea - Story - Inspiration 5:**
 
@@ -157,11 +199,14 @@ goals/responsibilites.
 
 **From 5 project ideas you have above, please choose one of the project that you are going with for the rest of the semester. Explain why you are going with that project**
 
+**Answer:**
+The project we convened on tackling is Track 3 Idea 4: a cultural online "guessr" game, which uses photos from a large variety of events featured in UIC cultural centers as prompts for users to guess each photo's respective cultural context or event title. 
 # Extra Credit (Only do this if you are done with Idea Finalization)
 
 ## Database Design
 
 **Q1: What database are you using for your project (SQLite, PostgreSQL, noSQL, MongoDB,...), and why do you choose it?**
+
 
 **Q2: How will database be helpful to your project? How will you design your database to support your application features?**
 
