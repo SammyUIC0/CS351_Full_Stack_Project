@@ -126,11 +126,13 @@ goals/responsibilites.
 
 **Answer**  
 
-**Conor — Project Lead** – Oversees coordination and project direction.  
+**Conor — Backend 1 (Database & Functions)** – Designs and manages the database schema, implements backend functions, and ensures data is stored and retrieved correctly.  
 
-**Sammy — Frontend** – Focuses on building the user interface and integrating designs from Figma.  
+**Sammy — Backend 2 (API to Frontend)** – Builds and documents the API endpoints, integrates backend logic into accessible routes, and ensures smooth data flow to the frontend.  
 
-**Eric — Backend** – Responsible for setting up and maintaining the backend logic and APIs.  
+**Arsalan — Frontend 1 (Design)** – Leads UI/UX design and implementation, creates React components based on Figma designs, and ensures the app is user-friendly and visually consistent.  
+
+**Eric — Frontend 2 (API to Backend)** – Connects the frontend to backend APIs, handles data fetching/state management, and renders API responses into the user interface.  
 
 **Note:** As mentioned in Question 4, our roles will extend beyond the typical front-end/back-end split, and each member will take on responsibilities that support the entire stack when necessary and roles are subject to change if necessary.  
 
@@ -157,9 +159,11 @@ goals/responsibilites.
 
 **Solution 2:** 
 
-**Problem 3:** 
+**Problem 3:**  
+On a large campus like UIC or in busy public areas, students and community members frequently lose personal belongings, and there is no simple, centralized system for reporting and recovering lost items. Bulletin boards, social media groups, or word-of-mouth are inconsistent and usually ineffective, leaving many items permanently lost.  
 
 **Solution 3:**  
+A Lost & Found web app where users can post lost items with descriptions and photos, and others can report found items in the same centralized system. Items are searchable by keywords, categories, and date/location of loss. The platform would help reduce frustration and save time by connecting people who lose belongings with those who find them.  
 
 # Track 3: Creative Coding and Cultural Expression
 
@@ -239,7 +243,13 @@ The project we convened on tackling is Track 3 Idea 4: a cultural online "guessr
 
 **Q5: What authentication method will you use (e.g., username/password, OAuth, JWT)?**
 
-**Q6: How will you store and protect sensitive user data (e.g., passwords, tokens)?**
+**Answer**  
+We will use **email and password authentication** with passwords hashed (Argon2id or bcrypt). On login, users receive a **server-managed session** stored in a secure cookie (`HttpOnly`, `Secure`, `SameSite=Lax`) with CSRF protection enabled.  
+
+**Q6: How will you store and protect sensitive user data (e.g., passwords, tokens)?**  
+
+**Answer**  
+We will **never store plaintext passwords**. All passwords are hashed with a salted algorithm (Argon2id/bcrypt). We will store only minimal PII (e.g., email), keep secrets in **environment variables**, enforce **HTTPS**, and apply basic rate-limiting and CSRF protection to prevent abuse.
 
 ## Deployment
 
