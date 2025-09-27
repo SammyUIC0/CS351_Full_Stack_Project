@@ -214,8 +214,12 @@ time, top 15 this week, top 10 scores from today, etc), encouraging competition
 and increasing user engagement.
 
 **Idea - Story - Inspiration 5:**
+Many different cultures may have dietary restrictions.  One of the challenges Muslim Americans struggle with is finding halal food, especially in areas without many stores.  Given the lack of halal restaurants and the struggle to find them, it can be hard to find a place to eat.  Given that restaurants are often places people gather to find friends, it can be difficult to find other muslims to connect with.
+
 
 **Implementation 5:**
+A project to solve this issue would be a simple iOS/Android app (with a web version) that allows people to see halal restaurants.  Additionally, it can have an opt-in feature where you share your location with others, and ask if there are other users willing to meet up at the same restaurant to connect with each other.  In an attempt to help muslims reconnect with their culture, it can also have an informational page informing people about different types of halal options, and the history of islamic jurisprudence regarding the various types of halal options and methods.
+ 
 
 
 # Idea Finalization
