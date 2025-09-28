@@ -21,9 +21,18 @@ Mon: Anytime after 2:00pm
 Wed: Anytime after 11:00am
 Fri, Sun: Anytime after 6:00pm
 
+#### Arsalan Zahid - Availability
+Mon: 11:00am-12:00pm, 4:30pm-5:15pm, or 7:00pm-8:00pm
+Tue: 3:00pm-5:00pm
+Wed: 11:00am-12:00pm, 6:00pm-8:00pm
+Thu: 12:15pm-5:00pm
+Fri: 11:00am-12:00pm, 4:30pm-8:00pm
+Sat: All day
+Sun: All day **except** around 1:00pm-4:00pm
+
 ### Combined Availability (All-Inclusive)
-Mon: Anytime after 4:00pm
-Wed: Anytime between 11:00am-1:00pm, between 4:00-5:00pm, or after 7:00pm
+Mon: 4:30-5:15pm, or 7:00-8:00pm
+Wed: Anytime between 11:00am-12:00pm, 4:00-5:00pm, or 7:00-8:00pm
 Sun: Anytime after 6:00pm
 
 ---
