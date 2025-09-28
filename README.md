@@ -1,3 +1,4 @@
+
 # Logistics  
 
 **Q1:** At what time in the week would your group be available to meet online?  
@@ -147,17 +148,23 @@ goals/responsibilites.
 ---
 
 # Track 1: Tackling Generative AI Consequences
+
 **Problem 1:** 
+AI podcasts are an increasingly large problem on platforms like Spotify,Youtube, and Apple Podcasts, as AI voice generation is significantly cheaper than AI generated video or AI 'Deepfakes'. These podcasts represent a new and dangerous vector for misinformation.
 
 **Solution 1:** 
+A website that compiles a list of known accounts that use AI generated audio. Users can input an account they believe is generated using AI, while other users can reveiw and discuss each user submission. Gathering a list of these known AI accounts allows for people to tackle the rising wave of AI generated misninformation.  
+ 
 
 ---
 
 # Track 2: Technology for Public Goods 
 
 **Problem 2:**
+UIC is a large commuter school were thousands of students make the same commute by car during roughly the same times. Often these students have little choice but to commute this way if they live out of the way from an MTA/CTA station. This is inefficient, expensive an taxxing to the enviroment.
 
 **Solution 2:** 
+Create a carpooling website where students looking to carpool to campus can find other students to carpool with. Riders post thier desired routes and times, while Drivers set thier gas split and choose who they want to commute with. This creates a third option to commuting to campus that is cheaper and more enviromentally friendly than driving by yourself. Only UIC students with UIC emails are allowed to make accounts on the website.
 
 **Problem 3:**  
 On a large campus like UIC or in busy public areas, students and community members frequently lose personal belongings, and there is no simple, centralized system for reporting and recovering lost items. Bulletin boards, social media groups, or word-of-mouth are inconsistent and usually ineffective, leaving many items permanently lost.  
