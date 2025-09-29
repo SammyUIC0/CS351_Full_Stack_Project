@@ -239,8 +239,25 @@ The project we convened on tackling is Track 3 Idea 4: a cultural online "guessr
 
 **Q1: What database are you using for your project (SQLite, PostgreSQL, noSQL, MongoDB,...), and why do you choose it?**
 
+**Answer:**
+For our project, we will use PostgreSQL due to its robust and scalable nature.
+PostgreSQL is ideal for leaderboards, tracking user progress, and relational
+data between users/photos/guesses. PostgreSQL integrates well with Django, and
+supports more advanced features like JSON fields for additional flexibility.
+The main downsides to PostgreSQL include more setup overhead than something
+like SQLite, and being heavier than something like MongoDB for purely
+document-like storage. However, the benefits of PostgreSQL far outweigh the
+downsides, making it the best overall choice for our project.
 
 **Q2: How will database be helpful to your project? How will you design your database to support your application features?**
+
+**Answer:** The database is crucial to our project because we need to
+dynamically store and update user stats such as scores, high scores, session
+timestamps, and leaderboards. It will also relate text data to images, since
+this is how the app determines correct and incorrect answers to each prompt. To
+support our application's features, we must design the database such that these
+relational objects exist, and automatically update the leaderboards each time a
+score is recorded, or the current date changes.
 
 ## Third-Party API Integration
 
