@@ -1,5 +1,5 @@
 
-# Logistics  
+gistics  
 
 **Q1:** At what time in the week would your group be available to meet online?  
 **Example:**  
@@ -149,22 +149,22 @@ goals/responsibilites.
 
 # Track 1: Tackling Generative AI Consequences
 
-**Problem 1:** 
-AI podcasts are an increasingly large problem on platforms like Spotify,Youtube, and Apple Podcasts, as AI voice generation is significantly cheaper than AI generated video or AI 'Deepfakes'. These podcasts represent a new and dangerous vector for misinformation.
+**Problem 1:** AI podcasts are an increasingly large problem on platforms like Spotify,Youtube, and Apple Podcasts, as AI voice generation is significantly cheaper than AI generated video or AI 'Deepfakes'. These podcasts represent a new and dangerous vector for misinformation.
 
 **Solution 1:** 
-A website that compiles a list of known accounts that use AI generated audio. Users can input an account they believe is generated using AI, while other users can reveiw and discuss each user submission. Gathering a list of these known AI accounts allows for people to tackle the rising wave of AI generated misninformation.  
- 
+A website that compiles a list of known AI Podcast accounts throughout the big podcast streamers (Spotify, Youtube, Apple Podcasts, ect.).   
 
 ---
 
 # Track 2: Technology for Public Goods 
 
-**Problem 2:**
-UIC is a large commuter school were thousands of students make the same commute by car during roughly the same times. Often these students have little choice but to commute this way if they live out of the way from an MTA/CTA station. This is inefficient, expensive an taxxing to the enviroment.
+**Problem 2:** 
+UIC is a large commuter school were thousands of students make the same commute by car during roughly the same times. Often these students have little choice but to commute this way if they live out of the way from the MTA/CTA. This is inefficient, expensive and taxing to the enviroment.  
+
 
 **Solution 2:** 
-Create a carpooling website where students looking to carpool to campus can find other students to carpool with. Riders post thier desired routes and times, while Drivers set thier gas split and choose who they want to commute with. This creates a third option to commuting to campus that is cheaper and more enviromentally friendly than driving by yourself. Only UIC students with UIC emails are allowed to make accounts on the website.
+Create a carpooling website where students looking to carpool to campus can find other students to carpool with. Riders post thier desired routes and times, while Drivers set thier gas split and choose who they want to commute with. This creates a third option to commuting to campus that is cheaper and more enviromentally friendly than driving by yourself. Only UIC students and UIC emails are allowed to make accounts on the website. 
+
 
 **Problem 3:**  
 On a large campus like UIC or in busy public areas, students and community members frequently lose personal belongings, and there is no simple, centralized system for reporting and recovering lost items. Bulletin boards, social media groups, or word-of-mouth are inconsistent and usually ineffective, leaving many items permanently lost.  
@@ -244,7 +244,12 @@ The project we convened on tackling is Track 3 Idea 4: a cultural online "guessr
 
 **Q3: Which third-party API(s) will you integrate into your project? What data will you pull from the API(s), and how will you use it in your application?**
 
+We plan on allowing users to create accounts on our website in order to streamline user registrations, and authentication we plan on using Django Allauth, a free and opensource API that manages account registrations, email verifications, forgotton password recovery, and sign ups through third-party social media, such as signing up with an google account. This will manage our email verifications for account creation on our website.    
+
 **Q4: Does your API key has limitations such as rate limits or downtime? How are you going to deal with that?**
+
+Full documentation for rate limits for django-allauth is located here:https://docs.allauth.org/en/latest/account/rate_limits.html 
+In general rate limits are optional and can be disabled in django allauth, but we don't intend to do that as our rate limits exists as a security measure, for example thier is a rate limit of 5 password resets per user per minute or 10 failed logins per minute per ip address in order to prevent system abuse.  
 
 ## Authentication and Security
 
@@ -263,3 +268,4 @@ We will **never store plaintext passwords**. All passwords are hashed with a sal
 **Q7: Where will you deploy your project (e.g., Heroku, AWS, Render)? How will you manage environment variables and secrets during deployment?**
 
 **Q8: How will you ensure your deployment is reliable and easy to update?**
+
