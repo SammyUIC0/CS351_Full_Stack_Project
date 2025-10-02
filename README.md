@@ -153,7 +153,7 @@ goals/responsibilites.
 
 # Tech Stacks
 
-**Q6:** Which tech stacks will your group use? (Django + React or Flask + React)
+**Q6:** Which tech stacks will your group use? (Django + React)
 
 ---
 # Full Stack Group Project Track  
