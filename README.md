@@ -51,16 +51,19 @@ Sun: Anytime after 6:00pm
 # Communication  
 
 **Q3a:** How can your group communicate when doing the Full Stack Group Project?  
-**Q3b:** What are the usernames of each group member on that platform?  
-**Q3c:** What is your group’s expected response time to messages?  
 
-**Example:**  
 *We will use Discord for communication*  
 
+**Q3b:** What are the usernames of each group member on that platform?  
+
 *Usernames:*  
-*Justin - ghostmechanic*  
-*Claudia - ninth.py*  
-*Mauricio - itsperi*  
+*Connor - Conor McJannett*  
+*Eric - Eric Flores*  
+*Sammy - Sammy*
+*Arsalan - Arsalan Zahid*
+
+**Q3c:** What is your group’s expected response time to messages?  
+
 *Our expected response time will be within 12 hours.*  
 
 ---
